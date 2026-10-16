@@ -1,13 +1,13 @@
 {
-  "version": "1.3.0",
-  "url": "https://github.com/tanfound-code/panzercorps/releases/download/v1.3.0/Panzercorps-1.3.0.apk",
+  "version": "1.4.2",
+  "url": "https://github.com/tanfound-code/panzercorps/releases/download/v1.4.2/Panzercorps-1.4.2.apk",
   "urls": [
-    "https://github.com/tanfound-code/panzercorps/releases/download/v1.3.0/Panzercorps-1.3.0.apk",
-    "https://ghfast.top/https://github.com/tanfound-code/panzercorps/releases/download/v1.3.0/Panzercorps-1.3.0.apk",
-    "https://gh-proxy.com/https://github.com/tanfound-code/panzercorps/releases/download/v1.3.0/Panzercorps-1.3.0.apk",
-    "https://ghproxy.net/https://github.com/tanfound-code/panzercorps/releases/download/v1.3.0/Panzercorps-1.3.0.apk"
+    "https://github.com/tanfound-code/panzercorps/releases/download/v1.4.2/Panzercorps-1.4.2.apk",
+    "https://ghfast.top/https://github.com/tanfound-code/panzercorps/releases/download/v1.4.2/Panzercorps-1.4.2.apk",
+    "https://gh-proxy.com/https://github.com/tanfound-code/panzercorps/releases/download/v1.4.2/Panzercorps-1.4.2.apk",
+    "https://ghproxy.net/https://github.com/tanfound-code/panzercorps/releases/download/v1.4.2/Panzercorps-1.4.2.apk"
   ],
-  "notes": "阿拉曼战役 AI 整体加强（更积极开火、聚焦目标格、迎击半径扩大）；撤退一律由攻方决定（含攻方自己被反击打退时）；覆盖安装/更新不再重置昵称、头像与好友数据；修复手机上全角冒号的方块显示问题；房间号一键复制/粘贴、触屏点选攻占与撤退",
+  "notes": "多语言支持：主菜单新增设置面板，可切换简体中文/English/日本語(界面即时切换)；主界面重新设计更清爽(模式与联机操作合并为一行)；阿拉曼战役中消灭或击退敌人后，是否挺进占领与由哪支部队进驻全部由玩家点地图决定(不再由AI自动决定)",
   "mandatory": false,
   "min_version": ""
 }
