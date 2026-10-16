@@ -62,6 +62,10 @@ battle log for every roll.
   room code; the guest pastes it in and joins. Works over Wi-Fi (LAN discovery),
   IPv6 direct codes, or UPnP port mapping.
 
+### Languages
+
+The interface is available in **Simplified Chinese, English and Japanese** - switch anytime from the in-game **Settings** panel. Campaign setup (AI difficulty, side) now lives in the same panel.
+
 ### Built for touch
 
 Drag to pan, pinch to zoom, tap to select. Capturing an objective and choosing
