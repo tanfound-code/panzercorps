@@ -1,7 +1,7 @@
 {
-  "version": "1.2.2",
+  "version": "9.9.9",
   "url": "https://github.com/tanfound-code/panzercorps/releases/download/v1.2.2/Panzercorps-1.2.2.apk",
-  "notes": "修复真机严重问题：创建联机房间失败（补网络权限）、部分设备画面无法渲染；开局镜头对准部队；全角括号显示修复；AI难度分级与占领部队指定",
+  "notes": "自动更新链路测试（请忽略）",
   "mandatory": false,
   "min_version": ""
 }
