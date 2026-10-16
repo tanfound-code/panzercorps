@@ -1,7 +1,7 @@
 {
-  "version": "1.1.4",
-  "url": "https://github.com/tanfound-code/panzercorps/releases/download/v1.1.4/Panzercorps-1.1.4.apk",
-  "notes": "v1.1.4：APK 精简为 arm64（体积 58MB→32MB）；多更新源（GitHub + jsDelivr）；修复联机建房端口占用",
+  "version": "1.2.2",
+  "url": "https://github.com/tanfound-code/panzercorps/releases/download/v1.2.2/Panzercorps-1.2.2.apk",
+  "notes": "修复真机严重问题：创建联机房间失败（补网络权限）、部分设备画面无法渲染；开局镜头对准部队；全角括号显示修复；AI难度分级与占领部队指定",
   "mandatory": false,
   "min_version": ""
 }
