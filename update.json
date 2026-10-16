@@ -1,7 +1,13 @@
 {
-  "version": "1.2.5",
-  "url": "https://github.com/tanfound-code/panzercorps/releases/download/v1.2.5/Panzercorps-1.2.5.apk",
-  "notes": "触屏点选战法：进攻后可在地图上点选进驻占领的部队（或放弃不占领）、被击退时点选撤退目的格；房间号一键复制/粘贴（创建房间弹窗「复制房间号」、主菜单「粘贴/复制」支持从聊天软件整段文本智能识别、对局内顶栏「房号」按钮）；地图拖动范围放宽、堆叠单位点击轮换选中",
+  "version": "1.3.0",
+  "url": "https://github.com/tanfound-code/panzercorps/releases/download/v1.3.0/Panzercorps-1.3.0.apk",
+  "urls": [
+    "https://github.com/tanfound-code/panzercorps/releases/download/v1.3.0/Panzercorps-1.3.0.apk",
+    "https://ghfast.top/https://github.com/tanfound-code/panzercorps/releases/download/v1.3.0/Panzercorps-1.3.0.apk",
+    "https://gh-proxy.com/https://github.com/tanfound-code/panzercorps/releases/download/v1.3.0/Panzercorps-1.3.0.apk",
+    "https://ghproxy.net/https://github.com/tanfound-code/panzercorps/releases/download/v1.3.0/Panzercorps-1.3.0.apk"
+  ],
+  "notes": "阿拉曼战役 AI 整体加强（更积极开火、聚焦目标格、迎击半径扩大）；撤退一律由攻方决定（含攻方自己被反击打退时）；覆盖安装/更新不再重置昵称、头像与好友数据；修复手机上全角冒号的方块显示问题；房间号一键复制/粘贴、触屏点选攻占与撤退",
   "mandatory": false,
   "min_version": ""
 }
