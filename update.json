@@ -1,7 +1,7 @@
 {
-  "version": "1.2.2",
-  "url": "https://github.com/tanfound-code/panzercorps/releases/download/v1.2.2/Panzercorps-1.2.2.apk",
-  "notes": "修复真机严重问题：创建联机房间失败(补网络权限)、部分设备画面无法渲染；开局镜头对准部队；全角括号显示修复；AI难度分级与占领部队指定",
+  "version": "1.2.5",
+  "url": "https://github.com/tanfound-code/panzercorps/releases/download/v1.2.5/Panzercorps-1.2.5.apk",
+  "notes": "触屏点选战法：进攻后可在地图上点选进驻占领的部队（或放弃不占领）、被击退时点选撤退目的格；房间号一键复制/粘贴（创建房间弹窗「复制房间号」、主菜单「粘贴/复制」支持从聊天软件整段文本智能识别、对局内顶栏「房号」按钮）；地图拖动范围放宽、堆叠单位点击轮换选中",
   "mandatory": false,
   "min_version": ""
 }
