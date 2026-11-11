@@ -1,12 +1,13 @@
 {
-  "version": "1.4.6",
-  "url": "https://github.com/tanfound-code/panzercorps/releases/download/v1.4.6/Panzercorps-1.4.6.apk",
+  "version": "1.4.7",
+  "url": "https://github.com/tanfound-code/panzercorps/releases/download/v1.4.7/Panzercorps-1.4.7.apk",
   "urls": [
-    "https://github.com/tanfound-code/panzercorps/releases/download/v1.4.6/Panzercorps-1.4.6.apk",
-    "https://gh-proxy.com/https://github.com/tanfound-code/panzercorps/releases/download/v1.4.6/Panzercorps-1.4.6.apk",
-    "https://gh-proxy.net/https://github.com/tanfound-code/panzercorps/releases/download/v1.4.6/Panzercorps-1.4.6.apk"
+    "https://github.com/tanfound-code/panzercorps/releases/download/v1.4.7/Panzercorps-1.4.7.apk",
+    "https://gh-proxy.com/https://github.com/tanfound-code/panzercorps/releases/download/v1.4.7/Panzercorps-1.4.7.apk",
+    "https://ghproxy.net/https://github.com/tanfound-code/panzercorps/releases/download/v1.4.7/Panzercorps-1.4.7.apk",
+    "https://gh-proxy.net/https://github.com/tanfound-code/panzercorps/releases/download/v1.4.7/Panzercorps-1.4.7.apk"
   ],
-  "notes": "修复主菜单点击「去下载」无反应的问题(现弹出官方直链/镜像加速/复制链接三种下载方式)；同时修复菜单中「更新源」「端口」按钮的同类无响应问题",
+  "notes": "修复主菜单更新对话框点击按钮后闪退的问题(菜单阶段提示条改为状态栏显示)；更新提示与「去下载」/「更新源」/「端口」按钮在菜单中均可正常打开对话框",
   "mandatory": false,
   "min_version": ""
 }
