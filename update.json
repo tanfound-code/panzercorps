@@ -1,13 +1,12 @@
 {
-  "version": "1.4.4",
-  "url": "https://github.com/tanfound-code/panzercorps/releases/download/v1.4.4/Panzercorps-1.4.4.apk",
+  "version": "1.4.5",
+  "url": "https://github.com/tanfound-code/panzercorps/releases/download/v1.4.5/Panzercorps-1.4.5.apk",
   "urls": [
-    "https://github.com/tanfound-code/panzercorps/releases/download/v1.4.4/Panzercorps-1.4.4.apk",
-    "https://ghproxy.net/https://github.com/tanfound-code/panzercorps/releases/download/v1.4.4/Panzercorps-1.4.4.apk",
-    "https://gh-proxy.com/https://github.com/tanfound-code/panzercorps/releases/download/v1.4.4/Panzercorps-1.4.4.apk",
-    "https://gh-proxy.net/https://github.com/tanfound-code/panzercorps/releases/download/v1.4.4/Panzercorps-1.4.4.apk"
+    "https://github.com/tanfound-code/panzercorps/releases/download/v1.4.5/Panzercorps-1.4.5.apk",
+    "https://gh-proxy.net/https://github.com/tanfound-code/panzercorps/releases/download/v1.4.5/Panzercorps-1.4.5.apk",
+    "https://gh-proxy.com/https://github.com/tanfound-code/panzercorps/releases/download/v1.4.5/Panzercorps-1.4.5.apk"
   ],
-  "notes": "AI 大幅强化：修复了 AI 全军只移动不进攻的缺陷；阿拉曼守方 AI 经数百局模拟调优(积极反击/近距迎击/守住目标格)；音效全面拟真(真实炮击/爆炸/机枪/坦克引擎采样)；战场爆炸粒子特效与镜头震动；主界面地图纹理化与视觉强化",
+  "notes": "修复主菜单「去下载」按钮点击无响应的问题(更新提示无法打开下载对话框)；更新对话框提供官方直链/镜像加速/复制链接三种方式；阿拉曼 AI 强化与音效特效改进延续",
   "mandatory": false,
   "min_version": ""
 }
