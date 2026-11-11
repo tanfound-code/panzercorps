@@ -1,13 +1,13 @@
 {
-  "version": "1.4.3",
-  "url": "https://github.com/tanfound-code/panzercorps/releases/download/v1.4.3/Panzercorps-1.4.3.apk",
+  "version": "1.4.4",
+  "url": "https://github.com/tanfound-code/panzercorps/releases/download/v1.4.4/Panzercorps-1.4.4.apk",
   "urls": [
-    "https://github.com/tanfound-code/panzercorps/releases/download/v1.4.3/Panzercorps-1.4.3.apk",
-    "https://ghfast.top/https://github.com/tanfound-code/panzercorps/releases/download/v1.4.3/Panzercorps-1.4.3.apk",
-    "https://gh-proxy.com/https://github.com/tanfound-code/panzercorps/releases/download/v1.4.3/Panzercorps-1.4.3.apk",
-    "https://ghproxy.net/https://github.com/tanfound-code/panzercorps/releases/download/v1.4.3/Panzercorps-1.4.3.apk"
+    "https://github.com/tanfound-code/panzercorps/releases/download/v1.4.4/Panzercorps-1.4.4.apk",
+    "https://ghproxy.net/https://github.com/tanfound-code/panzercorps/releases/download/v1.4.4/Panzercorps-1.4.4.apk",
+    "https://gh-proxy.com/https://github.com/tanfound-code/panzercorps/releases/download/v1.4.4/Panzercorps-1.4.4.apk",
+    "https://gh-proxy.net/https://github.com/tanfound-code/panzercorps/releases/download/v1.4.4/Panzercorps-1.4.4.apk"
   ],
-  "notes": "界面全面多语言：战报、提示、战斗面板与教程全部支持中/英/日(设置面板切换)；修复阿拉曼敌方撤退或被歼灭后未出现进驻占领选项；修复AI无进展时反复原地移动；修复阵营名(轴心/盟军)未翻译",
+  "notes": "AI 大幅强化：修复了 AI 全军只移动不进攻的缺陷；阿拉曼守方 AI 经数百局模拟调优(积极反击/近距迎击/守住目标格)；音效全面拟真(真实炮击/爆炸/机枪/坦克引擎采样)；战场爆炸粒子特效与镜头震动；主界面地图纹理化与视觉强化",
   "mandatory": false,
   "min_version": ""
 }
