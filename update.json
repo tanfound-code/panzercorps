@@ -1,13 +1,12 @@
 {
-  "version": "1.4.7",
-  "url": "https://github.com/tanfound-code/panzercorps/releases/download/v1.4.7/Panzercorps-1.4.7.apk",
+  "version": "1.6.1",
+  "url": "https://github.com/tanfound-code/panzercorps/releases/download/v1.6.1/Panzercorps-1.6.1.apk",
   "urls": [
-    "https://github.com/tanfound-code/panzercorps/releases/download/v1.4.7/Panzercorps-1.4.7.apk",
-    "https://gh-proxy.com/https://github.com/tanfound-code/panzercorps/releases/download/v1.4.7/Panzercorps-1.4.7.apk",
-    "https://ghproxy.net/https://github.com/tanfound-code/panzercorps/releases/download/v1.4.7/Panzercorps-1.4.7.apk",
-    "https://gh-proxy.net/https://github.com/tanfound-code/panzercorps/releases/download/v1.4.7/Panzercorps-1.4.7.apk"
+    "https://github.com/tanfound-code/panzercorps/releases/download/v1.6.1/Panzercorps-1.6.1.apk",
+    "https://gh-proxy.net/https://github.com/tanfound-code/panzercorps/releases/download/v1.6.1/Panzercorps-1.6.1.apk",
+    "https://gh-proxy.com/https://github.com/tanfound-code/panzercorps/releases/download/v1.6.1/Panzercorps-1.6.1.apk"
   ],
-  "notes": "修复主菜单更新对话框点击按钮后闪退的问题(菜单阶段提示条改为状态栏显示)；更新提示与「去下载」/「更新源」/「端口」按钮在菜单中均可正常打开对话框",
+  "notes": "v1.6.1：新增三张战役地图（库尔斯克会战 / 诺曼底登陆 / 莫斯科城下），按原作编制与历史地形重制；AI 大幅强化（局内即时学习、一回合前瞻、协同围歼、难度梯度学习）；攻击面板新增成功率与期望损失预测；设置面板支持滚动与音效音量滑块",
   "mandatory": false,
   "min_version": ""
 }
