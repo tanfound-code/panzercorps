@@ -1,12 +1,13 @@
 {
-  "version": "1.6.1",
-  "url": "https://github.com/tanfound-code/panzercorps/releases/download/v1.6.1/Panzercorps-1.6.1.apk",
+  "version": "2.0.0",
+  "url": "https://github.com/tanfound-code/panzercorps/releases/download/v2.0.0/Panzercorps-2.0.0.apk",
   "urls": [
-    "https://github.com/tanfound-code/panzercorps/releases/download/v1.6.1/Panzercorps-1.6.1.apk",
-    "https://gh-proxy.net/https://github.com/tanfound-code/panzercorps/releases/download/v1.6.1/Panzercorps-1.6.1.apk",
-    "https://gh-proxy.com/https://github.com/tanfound-code/panzercorps/releases/download/v1.6.1/Panzercorps-1.6.1.apk"
+    "https://github.com/tanfound-code/panzercorps/releases/download/v2.0.0/Panzercorps-2.0.0.apk",
+    "https://gh-proxy.com/https://github.com/tanfound-code/panzercorps/releases/download/v2.0.0/Panzercorps-2.0.0.apk",
+    "https://gh-proxy.net/https://github.com/tanfound-code/panzercorps/releases/download/v2.0.0/Panzercorps-2.0.0.apk",
+    "https://ghproxy.net/https://github.com/tanfound-code/panzercorps/releases/download/v2.0.0/Panzercorps-2.0.0.apk"
   ],
-  "notes": "v1.6.1：新增三张战役地图（库尔斯克会战 / 诺曼底登陆 / 莫斯科城下），按原作编制与历史地形重制；AI 大幅强化（局内即时学习、一回合前瞻、协同围歼、难度梯度学习）；攻击面板新增成功率与期望损失预测；设置面板支持滚动与音效音量滑块",
+  "notes": "v2.0.0：大战略模式重制——拟真省份地图（真实地形底图，省份大小不一，不再用六边形）；新增持续围攻战斗状态机与战斗窗口、战斗宽度、基建影响机动与补给、HQ 指挥链、空军联队支援与压制、石油与钢铁资源及贸易、阵营远征军、三层国家 AI。可直接覆盖安装。",
   "mandatory": false,
   "min_version": ""
 }
